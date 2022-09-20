@@ -51,7 +51,7 @@ if __name__ == "__main__":
 
 	animals = ("chevreuil", "chien", "pigeon")
 	adjectives = ("rouge", "officiel", "lourd")
-	fruits = ("pommes", "kiwis", "mangue")
+	fruits = ("pommes", "kiwis", "mangues")
 	print(get_random_sentence(animals, adjectives, fruits))
 	
 	print(encrypt("ABC", 1))
